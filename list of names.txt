@@ -1,0 +1,5 @@
+lakshmi,12
+priya,17
+nimrah,32
+vineeth,20
+salman,24
